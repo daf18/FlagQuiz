@@ -5,4 +5,7 @@
     <string name="plese_enter_your_name">Plese enter your name</string>
     <string name="hint">e.g. John</string>
     <string name="start">START</string>
+    <string name="result">Result</string>
+    <string name="image">image</string>
+    <string name="hey_congratulations">Hey, Congratulations!</string>
 </resources>
