@@ -9,4 +9,6 @@
     <color name="white">#FFFFFFFF</color>
     <color name="welcomeGrey">#363A43</color>
     <color name="lightGrey">#7A8089</color>
+    <color name="correct_green">#43A047</color>
+    <color name="incorrect_red">#E53935</color>
 </resources>
