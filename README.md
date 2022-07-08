@@ -1,8 +1,4 @@
 # FlagQuiz
-![screen1]()
-![brazilQuiz]()
-![screen3]()
-
 
 
 <p align="center">
