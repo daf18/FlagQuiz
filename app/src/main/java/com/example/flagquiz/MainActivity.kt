@@ -22,6 +22,8 @@ class MainActivity : AppCompatActivity() {
             } else {
                 // going from THIS activity, to QuizQuestionsActivity which is a java file
                 val intent = Intent(this,QuizQuestionsActivity::class.java )
+                //pass data towards QuizQuestionActivity
+                intent.putExtra(Constants.USER_NAME, etName.text.toString())
                 //start the intent
                 startActivity(intent)
                 //to not be able to go back
